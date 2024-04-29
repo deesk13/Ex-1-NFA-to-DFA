@@ -19,6 +19,7 @@ Step 4 : Do repeat Step 2 and Step 3 until no new state present in DFA transitio
 Step 5 : Mark the states of DFA which contains final state of NFA as final states of DFA.
 # PROGRAM
 REGISTER NO.212223240026
+
 NAME: DEVA DHARSHINI I
 ```
 #include <stdio.h>
