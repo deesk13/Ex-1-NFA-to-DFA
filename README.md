@@ -20,6 +20,7 @@ Step 5 : Mark the states of DFA which contains final state of NFA as final state
 # PROGRAM
 REGISTER NO.212223240026
 NAME: DEVA DHARSHINI I
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -285,6 +286,7 @@ char *NFA_TABLE[states][symbols + 1];
  Display_DFA(last_index, dfa_states, DFA_TABLE);
  return 0;
 }
+```
 # OUTPUT 
 ![Screenshot 2024-04-29 102453](https://github.com/deesk13/Ex-1-NFA-to-DFA/assets/150927063/4d3a14f6-a192-496f-9d51-b4c13f85ab08)
 
